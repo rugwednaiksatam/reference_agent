@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # toolbox
 
 A shared library of small, reusable helpers, written by everyone on the
@@ -31,3 +32,14 @@ Read `CONTRIBUTING.md` first. The short version:
 4. One pull request per team
 
 `toolbox/text.py` is the worked example. Copy its shape.
+=======
+# agent
+
+Agent project.
+
+To run:
+
+    python ask.py
+
+TODO: write this properly
+>>>>>>> 50424bd0ccf23f35952e98d2934aeb84ba7b1160
